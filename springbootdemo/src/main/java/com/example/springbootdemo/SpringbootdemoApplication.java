@@ -10,6 +10,7 @@ public class SpringbootdemoApplication {
 	public static void main(String[] args) {
 		SpringbootdemoApplication.run(SpringbootdemoApplication.class, args);
 		System.out.println("Testing");
+		System.out.println("Testing1");
 	}
 
 }
