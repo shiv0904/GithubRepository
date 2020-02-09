@@ -11,6 +11,7 @@ public class SpringbootdemoApplication {
 		SpringbootdemoApplication.run(SpringbootdemoApplication.class, args);
 		System.out.println("Testing");
 		System.out.println("Testing11");
+		System.out.println("Testing12");
 	}
 
 }
